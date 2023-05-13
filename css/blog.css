@@ -1,0 +1,7 @@
+.pic{
+    width: 100%;
+    overflow: hidden;
+    display: block;
+    margin: 0 auto;
+    opacity: 0.5;
+}
